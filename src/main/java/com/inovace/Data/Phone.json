@@ -1,0 +1,111 @@
+{
+  "id": "motorola-xoom-with-wi-fi-1",
+  "age": 0,
+  "imageUrl": "https://images.unsplash.com/photo-1580910051074-3eb694886505?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+  "name": "Motorola XOOM™ with Wi-Fi",
+  "snippet": "The Next, Next Generation\r\n\r\nExperience the future with Motorola XOOM with Wi-Fi, the world's first tablet powered by Android 3.0 (Honeycomb).",
+  "phoneDetail": {
+    "id": "t-mobile-g1",
+    "additionalFeatures": "Accessibility features: tactile QWERTY keyboard, trackpad, three programmable keys, camera button",
+    "description": "The T-Mobile G1 was the world's first Android-powered phone. Launched nearly two years ago, it created an entirely new class of mobile phones and apps. Its successor, the T-Mobile G2 with Google, will continue the revolution.\n\nThe T-Mobile G2 will deliver tight integration with Google services and break new ground as the first smartphone designed to run at 4G speeds on our new HSPA+ network.",
+    "name": "T-Mobile G1",
+    "android": {
+      "id": 18,
+      "os": "Android 2.2",
+      "ui": "Android"
+    },
+    "availabilityList": [
+      {
+        "id": 19,
+        "name": "T-Mobile"
+      }
+    ],
+    "battery": {
+      "id": 20,
+      "standbyTime": "420 hours",
+      "talkTime": "7 hours",
+      "type": "Lithium Ion (Li-Ion) (1300 mAH)"
+    },
+    "camera": {
+      "id": 21,
+      "primaryCamera": "5.0 megapixels",
+      "secondaryCamera": "13.0 megapixels",
+      "features": [
+        {
+          "id": 22,
+          "name": "Flash"
+        },
+        {
+          "id": 23,
+          "name": "Video"
+        }
+      ]
+    },
+    "connectivity": {
+      "id": 24,
+      "bluetooth": "Bluetooth 2.1",
+      "cell": "GSM: 850, 900, 1800, 1900  UMTS: Yes",
+      "gps": true,
+      "infrared": false,
+      "wifi": "802.11 b/g/n"
+    },
+    "display": {
+      "id": 25,
+      "screenResolution": "WVGA (800 x 480)",
+      "screenSize": "3.7 inches",
+      "touchScreen": true
+    },
+    "hardware": {
+      "id": 26,
+      "accelerometer": true,
+      "audioJack": "3.5mm",
+      "cpu": "800 MHz Qualcomm® Snapdragon™ MSM7230",
+      "fmRadio": false,
+      "physicalKeyboard": true,
+      "usb": "USB 2.0"
+    },
+    "images": [
+      {
+        "id": 27,
+        "src": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+        "thumbnail": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+        "phoneDetail": null
+      },
+      {
+        "id": 28,
+        "src": "https://images.unsplash.com/photo-1592179900431-1e021ea53b28?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "thumbnail": "https://images.unsplash.com/photo-1592179900431-1e021ea53b28?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "phoneDetail": null
+      },
+      {
+        "id": 29,
+        "src": "https://images.unsplash.com/photo-1559650656-5d1d361ad10e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=648&q=80",
+        "thumbnail": "https://images.unsplash.com/photo-1559650656-5d1d361ad10e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=648&q=80",
+        "phoneDetail": null
+      }
+    ],
+    "sizeAndWeight": {
+      "id": 30,
+      "weight": "180.0 grams",
+      "dimensions": [
+        {
+          "id": 31,
+          "details": "60.4 mm (w)"
+        },
+        {
+          "id": 32,
+          "details": "119.0 mm (h)"
+        },
+        {
+          "id": 33,
+          "details": "14.2 mm (d)"
+        }
+      ]
+    },
+    "storage": {
+      "id": 34,
+      "flash": "4000MB",
+      "ram": "512MB"
+    }
+  }
+}
